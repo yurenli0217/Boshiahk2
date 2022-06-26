@@ -4,8 +4,6 @@
 [32位元執行檔](https://www.virustotal.com/gui/file/93f3fd30a75d9dc6a156ab6885fe6fa3c7522234d7c73c953204124a9722a57f)
 [64位元執行檔](https://www.virustotal.com/gui/file/8b8f4e5c12b98223e1f2b29fbfd4187fc07ff3a6b540db9df62cd1d28ae5759a)
 
-一些說明可參考前一版本連結:[https://github.com/yurenli0217/BoshiahkGV](https://github.com/yurenli0217/BoshiahkGV)
-
 ### 更新 2022-06-27
 將 INI 檔案拆成數個設定檔，放到`Config`中:
 - `Main.ini`: 主要設定
@@ -55,16 +53,6 @@
 - Ctrl-Alt-X: 結束程式。另外對輸入介面按滑鼠右鍵也可以結束程式。
 - Ctrl-Alt-Shift-C: 查詢焦點視窗的 Class Name。
 - Ctrl-Alt-Shift-T: 查詢焦點視窗的視窗標題。
-
-## 表格檔架構(新式表格檔)
-程式內含的表格檔由 PTT Liu板蝦友 `Fairry` 無私整理，他將表格檔重新規劃，檔案說明如下:
-- _Common.txt: 通用符號
-- _Phonetic.txt: 注音對應表
-- _User.txt: 使用者自訂字詞
-- Liu.txt: 包含了Unicode擴展區的文字。
-- LiuJap.txt: 日文專用表格
-- LiuT2S.txt: 常用字打繁出簡表格  
-#### Liu.txt 表格檔內容含擴展A、B區的文字，推薦使用「全字庫正楷體」，此字型可支援到 Unicode 第2字面。
 
 ## 查詢功能 (2021-10-11 更新)
 - 萬用碼查碼: 先輸入前導碼`[`，再輸入字根，不確定字根用`.`來代表。如`[A..P`，會顯示字碼首碼為`A`、尾碼為`P`、以及字根數為「四碼」的選字。
