@@ -44096,10 +44096,6 @@ uzx 肒
 uzz 臆 肊 𠃗 𦘸 𩁶
 uzzz 𦠊
 v 要
-v[ ﹁ ⅸ
-v[[ ﹃
-v] ﹂ ⅹ
-v]] ﹄
 va 鬼
 vaa 襯 襨 𩲅
 vab 𧜛
@@ -45253,7 +45249,6 @@ vux 隻 叓 䯭
 vuxp 𩯣
 vuy 雋 𧙔
 vuys 𩳗
-vv 、 丶
 vva 袘
 vvdo 𩳦
 vvdp 複

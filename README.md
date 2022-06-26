@@ -6,6 +6,16 @@
 
 一些說明可參考前一版本連結:[https://github.com/yurenli0217/BoshiahkGV](https://github.com/yurenli0217/BoshiahkGV)
 
+### 更新 2022-06-27
+將 INI 檔案拆成數個設定檔，放到`Config`中:
+- `Main.ini`: 主要設定
+- `Table.ini`: 表格載入設定
+- `Style.ini`: 顯示設定
+- `Hotkey.ini`: 熱鍵設定
+- 後續版本構想: 規劃設計一個視窗介面，可以直接修改 Main.ini 的設定值，後續就不用常常開 INI 修改設定，此版先將 Ctrl-Alt-I 熱鍵取消。  
+- 此版的更新，將表格檔的歸類修改了一下，`Table`資料夾中，`Liu`開頭的檔名，字碼表是參考官方 7.x 版本，`M_`開頭的是蝦友`Fairry`整理的表格檔，考慮到很多蝦友應該還是比較習慣舊式的字碼對應，所以將此改為預設值，有特別需要的蝦友再到`Table.ini`中修改即可。
+- 字型檔原本是放在跟執行檔同一路徑中，現在改為放到`Config`資料夾中。
+
 ### 更新 2022-04-20
 - 修正: 偵測系統輸入法狀態有時會發生錯誤訊息的情況。
 - 加入 INI 設定值 `UserPrior`，設定值為 1 時，拆碼重相同的情況下，可以將自訂字詞列為優先順序。
@@ -17,11 +27,11 @@
 - 新增熱鍵 Ctrl-Alt-k。複製一個文字後，按下此熱鍵可以顯示該字的所有拆碼。
 - 修正同音字(Ctrl+數字)查詢功能，按ESC取消但卻無效的情況。
 
-# 輸入畫面範例 - (PNG動畫格式)
-![image](https://github.com/yurenli0217/Temp/blob/main/Example_All3.png?raw=true)  
+# 介面範例
+![image](Config/SampleUI.png)  
 
 # 下載方式如下圖  
-![image](https://github.com/yurenli0217/Temp/blob/main/Download.png?raw=true)
+![image](Config/SampleDL.png)
 
 # 程式執行前置作業
 - AutoHotkey 本身有鍵盤攔截功能，所以有時會被防毒軟體誤判，因此提供 32 位元與 64 位元的執行檔，請在解壓縮後，先選擇一個不會被系統誤判的執行檔。
@@ -37,7 +47,6 @@
 - Ctrl-Alt-B: 開啟自訂字詞檔。
 - Ctrl-Alt-C: 查看上一次送字之拆碼。
 - Ctrl-Alt-G: 重複上一次送出的字。
-- Ctrl-Alt-I: 開啟 INI 檔。
 - Ctrl-Alt-K: 複製一個文字後，按下此熱鍵可以顯示該字的所有拆碼。
 - Ctrl-Alt-L: 切換送字後顯示3碼以內的拆碼
 - Ctrl-Alt-O: 輸入介面位置重設。

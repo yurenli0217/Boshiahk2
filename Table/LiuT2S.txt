@@ -1,4 +1,843 @@
-﻿a 对
+﻿' 、 ． ‧ 丶 ＂ ＇ ·
+'' “ 〝
+''' ” 〞 ＂
+, ，
+,' ‘ ’ ‵ ′ 、 丶 ＂ ＇ ，
+,'' “ ” 〝 〞 ’
+,, 「 ， 〈 ＜ ﹤ ‘ ’ 《 “ ”
+,,, 《 «
+,,v 」 ”
+,. ． ‧ 〉 ＞ ﹥ 。 ゝ 、 ·
+,.. ¨ 》 » ∶
+,... ∵ ∴ ┆ ┇ ┊ ┋ ┄ ┅ ┈ ┉
+,..e Ё ё
+,..u ü
+,.r. ≒ ≑
+,[ 「 ｛ 〔 【 〈 ﹙ ﹛ ﹝ ＜ ［ （ 〖
+,[[ 『 ﹃ 【 ︻ 《 ︽ «
+,[[v ︽ ﹃
+,[v ﹁ ︻ ︹ ︷ ︽ ︿ ˆ ∧
+,] 」 ｝ 〕 】 〉 ﹚ ﹜ ﹞ ＞ ］ ） 〗
+,]] 』 ﹄ 】 ︼ 》 ︾ »
+,]]v ︾ ﹄
+,]v ﹂ ︼ ︺ ︸ ︾ ﹀ ∨
+,a α ㄚ ． ∀ А а ɑ
+,a.m ㏂
+,ae 亼 釒
+,ai ㄞ
+,air ✈
+,al ♢ ♦
+,all ∀
+,alp Α
+,am ㏂
+,an ㄢ
+,and ＆
+,ang ㄤ
+,ao ㄠ
+,apc ℀
+,aps ℁
+,au ㄠ ㍳
+,b ８ Ⅷ β ㄅ ＆ ⅷ ∞ ⑻ ⑧ Ь
+,b. ⒏
+,bah ฿
+,bar ㍴
+,bb ☯
+,bd ✁ ✂ ✃ ✄
+,be 冫 Б б Ё ё
+,bet Β
+,bi 仝 阝 ฿
+,bie 仝
+,bis ♗ ♝
+,bn ㆟
+,bob ¤
+,bq ㏃
+,br ≧ ≦
+,bs ☼ ☉ ☀
+,bu ü
+,bue ㋇
+,by ☯ ☰ ☱ ☲ ☳ ☴ ☵ ☶ ☷
+,c ７ Ⅶ ㄘ ⅶ ⑺ ⑦
+,c. ⒎
+,cal ㎈
+,cap ∩
+,cc ㏄ ℂ
+,cd ㏅
+,ce 彑 ₠
+,cen ¢
+,ch ㄔ
+,che ✓ ✔ Ч ч
+,chi ㄔ ㄑ Χ χ
+,ci ㄑ ㆗ ¢ ℂ
+,cj ㆗
+,ckg ㏆
+,cl ℄
+,clu ♣ ♧
+,cm ㎝ ₡
+,cmm ㎠ ㎤
+,cmr ㎠
+,cms ㎤
+,co ㏇
+,co. ㏇
+,col ₡
+,com ☄
+,con ∮
+,cp ￠ ¢
+,cpb ⅞
+,cpk ㏆
+,cpo ℅
+,cpu ℆
+,cr € ₢
+,cro ✙ ✚ ✛ ✜ ✝ ✞ ✟ ✠ ☩
+,cru ₢
+,cs ˙
+,cue ㋆
+,cup ∪
+,cy ˙
+,d ㄉ δ
+,da ㍲
+,db 捌 ☼ ☉ ☀ ㏈
+,dc 柒 ↁ
+,de 壹 弌 ㍽ Д д
+,del Δ
+,df 肆
+,dg 仟 【 】
+,dgg 】
+,dh ㍼
+,di ≯
+,dia ♢ ♦
+,dj 拾
+,dk 玖
+,dl 陆 ㎗
+,do 零 ☼ ☉ ☀
+,dol ＄ ﹩ $
+,don ₫
+,dp 佰 ₯
+,dr 贰 弍 貮 ₫
+,dra ₯
+,ds 参 ☆ ★ 弎 ✩ ✪ ✫ ✬ ✭ ✮ ✯ ✰ ✡
+,dse ☆ ★ ✩ ✪ ✫ ✬ ✭ ✮ ✯ ✰ ✡
+,dt ☯
+,dv 万
+,dw 伍 ㍾
+,e １ Ⅰ ㄝ ㄜ ー – ε Σ ⅰ ㄧ － ㆒ ∃ ∈ ∑ ⑴ ① ─ ━ ￣ Э э
+,e. ⒈
+,e.e ﹊ ﹎
+,ea ā
+,ear ☷
+,eb. ⒙
+,ec. ⒘
+,ed ㆝
+,ede ₫
+,edn ㆝
+,ee ＿ 彐 － ─ ˉ — ￣ ē
+,ee. ⒒
+,eee ﹉ ﹍ ☰ ┄ ┅ ┈ ┉
+,eer ☴
+,eeu ㋊
+,ef ▃ ▄ ▏ ▎ ▍ ▌ ▋ ▊ ▉ Ф ф
+,ef. ⒕
+,eh ㄝ ♥ ♡ ❤ ❥ ❦ ❧
+,ei ㄟ ˆ ∉ 乀 乁 屮 ī
+,ej ∓ 肀 屮
+,ek. ⒚
+,el ㄦ τ Л л
+,el. ⒗
+,em М м
+,en ㄣ Н н
+,enb ㆛
+,eng ㄥ
+,env ✉
+,eo ō
+,eo. ⒑
+,eou ㋉
+,ep ⅟ ∉
+,epb ⅛
+,epf ¼
+,epl ⅙
+,epr ½
+,eps ⅓ Ε
+,epw ⅕
+,eq 豸
+,er ㄦ π ∏ Р р
+,er. ⒓
+,ere ☲
+,err ☶
+,eru ㋋
+,es ˙ ξ С с
+,es. ⒔
+,eta Η η
+,eu ū
+,eue ㋀
+,eur € ₠
+,ew. ⒖
+,ey ˙
+,ez →
+,ezz ↠
+,f ４ Ⅳ ㄈ ♀ ⅳ ㆕ ⑷ ④
+,f. ⒋
+,fa ㆘ ☟ 灬 ∷
+,fac ☹ ☺ ☻
+,fb ✙ ✚
+,fe ㆖ ☝
+,fg ✈
+,fgy ✈
+,fir ☲
+,fl 匸 ㄈ 匚
+,fm ㎙
+,fn □ ■ ◇ ◆ █ ▇ ▆ ▅ ▂ ＊
+,fpw ⅘
+,fqu ☽ ☾
+,fr ₣
+,fra ₣
+,fs ˋ
+,ft ✈
+,fty ✈
+,fu ∴
+,fue ㋃
+,fy ˋ ♢ ♦
+,g （ ㄍ γ ˆ 巜 ） 〔 〖 ɡ
+,ga ⒜ ㄍ
+,gae ㈮
+,gam Γ
+,gb ⑻ ㈧ ⒝ ㎇
+,gbb ㈾
+,gbi ㈾
+,gbz ㈽
+,gc ⑺ ㈦ ⒞
+,gco ㈴
+,gd ⒟
+,gdo ㈰
+,ge ⑴ ㈠ ⒠
+,geb ⒅
+,gec ⒄
+,gee ⑾
+,gef ⒁
+,gek ⒆
+,gel ⒃
+,geo ⑽
+,ger ⑿
+,ges ⒀
+,gew ⒂
+,gf ⑷ ㈣ ⒡
+,gfn ㈫
+,gg ） ⒢ 〕 〗
+,ggv ︶ ︼ ︺ ︸ ︾ ﹀ ∨
+,gh ⒣
+,ghz ㎓
+,gi ⒤ 丬
+,gj ⑽ ㈩ ⒥
+,gja ㉀
+,gjb ⒅
+,gjc ⒄
+,gjd ㈿
+,gje ⑾
+,gjf ⒁
+,gjk ⒆
+,gjl ⒃
+,gjr ⑿ ㉀
+,gjs ⒀
+,gjw ⒂
+,gk ⑼ ㈨ ⒦
+,gl ⑹ ㈥ ⒧
+,gm ⒨
+,gmb ㈶
+,gmu ㈶
+,gn ⒩ ㆝
+,gnn ㆝
+,go ㈩ ⒪
+,goh ㈺
+,gp ⒫ 丬
+,gpa ㎬ ㈹
+,gpe ㉃
+,gpm ㉂
+,gpt ㉁
+,gpx ㈹
+,gq ⒬
+,gr ⑵ ㈡ ⒭
+,grf ㈼
+,grj ⒇
+,gro ⒇
+,grr ㈷
+,grs ㈳ ㈷
+,grv ㈼
+,gry ㈳
+,gs ⑶ ㈢ ⒮
+,gsa ㈵
+,gsd ㈸
+,gsn ㈸ ㈻
+,gsy ㈵
+,gsz ㈻
+,gt ⒯
+,gtn ㈭
+,gts ㈱
+,gu ⒰
+,gue ㈪
+,gv ︵ ︻ ︹ ︷ ︽ ︿ ˆ ⒱
+,gw ⑸ ㈤ ⒲
+,gwn ㈬
+,gx ⒳
+,gxu ㈲
+,gy ⒴ ✈ ㏉
+,gye ㈯
+,gz ⒵
+,h ㄏ
+,ha ♥ ♡ ❤ ❥ ❦ ❧ ㏊ 忄
+,hat ∩
+,hea ☰ ♥ ♡ ❤ ❥ ❦ ❧
+,hh ♥ ♡ ❤ ❥ ❦ ❧
+,hi 忄
+,hj ☚ ☛ ☜ ☝ ☞ ☟
+,hp ☮ ㏋ ㄏ
+,hpa ㍱
+,hz ㎐
+,i ㄧ ∣ ︱ 丨 亅 ｜ │ ┃
+,ia Я я
+,ie Е е
+,iez ↦
+,il 讠
+,in ㏌
+,io Ё ё
+,iot Ι ι
+,ip ∤
+,ipx ∤
+,iu ㄩ Ю ю
+,ix ＊
+,iz ↓
+,izz ↡
+,j Ⅹ ㄐ ㄓ 十 ﹢ ⅹ ＋ ✙ ✚ ✛ ✜ ✝ ✞ ✟ ✠ ☩ ⑽ ⑩
+,j. ⒑
+,jb. ⒙
+,jc. ⒘
+,je ± Ⅺ ⅺ
+,je. ⒒
+,jeu ㋊
+,jf. ⒕
+,ji ㄐ
+,jis 〄
+,jj ＋ ＃ ﹟ ✙ ✚ ✛ ✜ ✝ ✞ ✟ ✠ ☩
+,jjj ＃ ﹟
+,jk. ⒚
+,jl. ⒗
+,jn 癶
+,jnd ✙ ✚ ✛ ✜ ✝ ✞ ✟ ✠ ☩
+,jp 癶
+,jr Ⅻ ⅻ
+,jr. ⒓
+,jru ㋋
+,js. ⒔
+,jue ㋉
+,jw. ⒖
+,jx ＊ 扌
+,jz ↬
+,k ９ Ⅸ ㄎ κ ⅸ ⑼ ⑨
+,k. ⒐
+,k.k ㏍
+,ka 々 ㎄ К к
+,kaa 々
+,kap Κ κ
+,kb ㎅
+,kca ㎉
+,ke ₭
+,kg ㎏
+,kha Х х
+,khz ㎑
+,kin ♔ ♚
+,kip ₭
+,kk ㏍
+,kl ㎘
+,km ㎞ ㏎
+,kmm ㎢ ㎦
+,kmr ㎢
+,kms ㎦
+,kni ♘ ♞
+,ko ㏀
+,koh ㏀
+,kom ㏀
+,kpa ㎪
+,kt ㏏
+,kue ㋈
+,kv ㎸
+,kw ㎾
+,l ６ Ⅵ ㄌ λ ∠ ∟ 〆 〦 ⅵ ⑹ ⑥ ┕
+,l. ⒍
+,lak ☱
+,lam Λ
+,lb 疒
+,lc ℄
+,le ￡ ⊥ 丄 £ 亠
+,lir ₤
+,ll ∠
+,lm ㏐
+,ln ㏑
+,log ㏒
+,lov ♥ ♡ ❤ ❥ ❦ ❧
+,lp ㄏ
+,lr ≦ ≧ ₤ ≤ ≥
+,lue ㋅
+,lx ㏓
+,lz ↪
+,m ÷ ㄇ ♂ ヾ ゞ ＊ ﹏ ﹌ ﹋
+,ma ㎃
+,mb ㎆ ㏔
+,mg ㎎
+,mhz ㎒
+,mi 彳
+,mic µ
+,mil ㏕ ₥
+,ml ㎖
+,mm ㎜ ㎡
+,mmm ㎟ ㎣ ㎥
+,mmr ㎟
+,mms ㎣
+,mn ＊
+,mo ㏁
+,moh ㏁
+,mol ㏖
+,mom ㏁
+,moo ☽ ☾
+,mou ☶
+,mp ₥ 彡
+,mpa ㎫
+,mps ㎧ ㎨
+,mr ㎡
+,ms ㎥ ㎳
+,mu μ µ Μ
+,mua ㎂
+,mue μ ㎛ µ
+,muf ㎌
+,mug ㎍
+,mul ㎕
+,mum ㎛
+,mus ㎲
+,muv ㎶
+,muw ㎼
+,mv ︴ ㎷ ㎹
+,mw ㎽ ㎿
+,n ＼ ㄋ ∩ η И и ⌒
+,n.. ǜ
+,na 々 ㎁ à
+,naa 々
+,nai ₦
+,ne è ê
+,nf ㎋
+,ni ì
+,nm ㎚
+,nn 〝
+,no № ò
+,no. №
+,noe №
+,nr ₦
+,ns ㎱
+,nu ₪ Ν ν ù
+,nv ㎵
+,nw ㎻
+,ny 冖 宀 冂 勹
+,nz ↘ ↯
+,o ０ ● ○ ㄛ Ω ω ° 〇 ο 。 О о
+,o. ⊙
+,oa ＠ ﹫ Ⓐ ⓐ
+,oa. ㋐
+,oae ㊎
+,ob ⑧ ㊇ ❽ ➇ ➑ Ⓑ ⓑ ∵
+,obb ☯ ㊮
+,obi ㊮
+,obn ☹
+,obu ☺ ☻
+,obz ㊭
+,oc ⑦ ㊆ ❼ ➆ ➐ ℃ Ⓒ ⓒ ©
+,oci ↂ ㊥
+,ocj ↂ ㊥
+,oco ㊔
+,od Ⓓ ⓓ
+,odo ㊐
+,odu ☯
+,oe ① ㊀ ❶ ➀ ➊ Θ Ⓔ ⓔ ∵
+,oe. ㋓
+,oeb ⑱
+,oec ⑰
+,oee ⑪
+,oef ⑭
+,oek ⑲ ㉿
+,oel ⑯
+,oeo ⑩ ㊉ ❿ ➉ ➓
+,oep ㊞
+,oer ⑫
+,oes ⑬
+,oew ⑮
+,oez ㊣
+,of ④ ㊃ ❹ ➃ ➍ ℉ Ⓕ ⓕ ∝
+,ofa ㊦
+,ofd ㊩
+,ofe ㊤
+,ofn ㊋
+,ofv ㊩
+,og Ⓖ ⓖ
+,ogx ㊛
+,oh Ⓗ ⓗ
+,oha ㋩
+,ohe ㋬
+,ohh ㊙
+,ohi ㋪
+,oho ㋭
+,ohp ㊙
+,ohu ㋫
+,oi Ⓘ ⓘ ↀ
+,oi. ㋑
+,oib ㊠
+,oio ↂ
+,oit ㊠
+,oj ⑩ ㊉ ❿ ➉ ➓ ♀ ⊕ Ⓙ ⓙ
+,ojb ⑱
+,ojc ⑰
+,ojd ㊯
+,oje ⑪
+,ojf ⑭
+,oji 〄
+,ojk ⑲
+,ojl ⑯
+,ojr ⑫
+,ojs ⑬
+,ojw ⑮
+,ok ⑨ ㊈ ❾ ➈ ➒ Ⓚ ⓚ ㉿
+,oka ㋕
+,oke ㉿ ㋘
+,oki ㋖
+,oko ㋙
+,oku ㋗
+,ol ⑥ ㊅ ❻ ➅ ➏ Ⓛ ⓛ
+,oln ㊜
+,olp ㊰
+,olu ㊰
+,olw ㊜
+,olx ㊰
+,om Ⓜ ⓜ
+,oma ㋮
+,omb ㊖
+,ome ㋱
+,omg Ω
+,omi ㋯ Ο ο
+,omo ㋲
+,omu ㊖ ㋰
+,on Ⓝ ⓝ
+,ona ㋤
+,one ㊢ ㋧
+,oni ㋥
+,onk ㊢
+,ono ㋨
+,onr ㊪
+,ons ㊪
+,onu ㋦
+,oo ⓪ □ ∞ ◎ Ⓞ ⓞ
+,oo. ㋔
+,ooa ☹
+,ood ☹
+,ooi ↂ
+,op φ Ⓟ ⓟ ∅
+,opo ％ ﹪ ‰
+,opp ㊝
+,opt ㊝ ㊡
+,oq Ⓠ
+,oqd ㊚
+,or ② ㊁ ❷ ➁ ➋ Ⓡ ⓡ ®
+,ora ㋶
+,ore ㋹
+,orf ㊬
+,ori 〶 ㋷
+,orj ⑳
+,oro ⑳ ㋺
+,orr ㊗
+,ors ㊓ ㊗
+,oru ㋸
+,orv ㊬
+,ory ㊓
+,os ③ ㊂ ❸ ➂ ➌ Ⓢ ⓢ ☮ ☄
+,os. ☯
+,osa ☯ ㊕ ㋚
+,osb ☯
+,osd ㊘
+,ose ㋝
+,osi ㋛
+,osn ㊘ ㊫
+,oso ㋞
+,osu ㋜
+,osy ㊕
+,osz ㊫
+,ot Ⓣ ⓣ
+,ota ㋟
+,ote ㋢
+,oti ㋠
+,otn ㊍
+,oto ㋣
+,ots ㊑
+,otu ㋡
+,ou ㄡ Ⓤ ⓤ ☹
+,ou. ㋒
+,oue ㊊
+,ov Ⓥ ⓥ ㍵
+,ow ⑤ ㊄ ❺ ➄ ➎ Ⓦ ⓦ
+,owa ㊟ ㋻
+,owe ㋽
+,owi ㋼
+,owk ㊟
+,own ㊌
+,owo ㋾
+,ox Ⓧ ⓧ
+,oxi ㊧
+,oxo ㊨
+,oxu ㊒
+,oxw ㊜
+,oy Ⓨ ⓨ
+,oya ㋳
+,oye ㊏
+,oyo ㋵
+,oyu ㋴
+,oyv ㊏
+,oyy ☯
+,oz Ⓩ ⓩ
+,p ／ ㄆ ∕ ╱ 丿 ＇ ㄗ
+,p.. ǘ
+,p.m ㏘
+,pa ㎀ ㎩ ㍻ á
+,paa ㎀
+,paw ♙ ♟
+,pc ￠ ㍶
+,pe ₧ П п é
+,pea ☮
+,pes ₧
+,pf ㎊ ☝ ☟
+,ph ㏗
+,phi Φ φ
+,pi π 卩 亻 ㄗ Π í
+,pm ㏘
+,pn ń
+,po φ ó
+,pos 〒 〶 〠
+,pou £
+,pp 〞 〃 ∥ ″
+,ppm ㏙
+,pr ≠ ㏚
+,pro ∏
+,ps ㎰
+,psi Ψ ψ
+,pts ₧
+,pu ψ ú
+,pv ㎴
+,pw ㎺
+,px 攵 夂 夊 ☚ ☛ ☜ ☞
+,py ✉
+,pz ↙
+,q ㄑ θ ╭ ╮ ╰ ╯ ╪ ≠
+,qi ㆙
+,qp 犭
+,qt ♠
+,que ♕ ♛
+,qx ≠ 犭
+,r ２ Ⅱ ㄖ ㄦ ＝ ﹦ 〢 ═ ⅱ ㆓ ⑵ ②
+,r. ⒉
+,rad ㎭ ㎮ ㎯
+,rat ∶
+,re 卝 ＝ 〓 Э
+,ree ☱
+,rer ☵
+,res ₨
+,rho Ρ ρ
+,ri ╡ 〒 卝 刂 ‖
+,rii 〒
+,riv 〠
+,rj 卄 艹
+,rj. ⒛
+,ro. ⒛
+,roo ♖ ♜
+,rp ≠ 〃 ″
+,rps ⅔
+,rpw ⅖
+,rpx ≠
+,rre ☳
+,rrr ☷
+,rs ˊ ₨ 礻 ≈
+,ru 殳
+,rue ㋁
+,rup ₨
+,ry ˊ
+,s ３ Ⅲ ㄙ ～ ＆ ≡ ﹠ ⅲ ㆔ ∼ ⑶ ③ ∫ ∽
+,s. ⒊
+,sa ヾ ゞ 巛
+,sci ✁ ✂ ✃ ✄
+,se ≡
+,set ∅
+,sh ㄕ ♥ ♡ ❤ ❥ ❦ ❧
+,sha Ш ш
+,shc щ
+,she ₪ Щ
+,shi ㄕ ㄒ
+,si ＄ ﹩ 〣 巛 $ ≮
+,sig Σ σ Ъ ъ
+,sii Й й
+,sj 卅
+,sm Σ
+,sn △ ▽ ▲ ▼ ⊿ Δ ◥ ◣ ◤ ◢ ∆
+,so ♂ ∮
+,spa ♠ ♤
+,spb ⅜
+,spf ¾
+,spr ♨
+,spw ⅗
+,sr ♣ ♧ ㏛ ≅ ≌
+,ss § ˇ ≈ ∥
+,ssi Ь ь
+,st ♤
+,sta ★ ☆ ✩ ✪ ✫ ✬ ✭ ✮ ✯ ✰ ✡
+,sue ㋂
+,sum ∑
+,sun ☼ ☉ ☀
+,sv ㏜
+,sy ˇ
+,sz ↝
+,t ㄊ ┬
+,taa ㍿
+,tar ㍿
+,tau Τ
+,te Т т
+,tel ℡ ☎ ☏ ✆
+,th θ
+,the Θ
+,thu ☳
+,thz ㎔
+,ti 丅 ㆜
+,tm ₮
+,to √
+,tpp ₮
+,tr ♣ ♧
+,ts ㄘ
+,tse Ц ц
+,tss ㈱
+,tug ₮
+,ty ✈
+,tz ㄗ ↧
+,u ㄨ ㄩ ∪ μ υ µ У у
+,ua 厶 ㎂
+,uab ☹ ☺ ☻
+,uao ☹ ☺ ☻
+,ue ☽ ☾
+,uf ㎌
+,ug ㎍
+,ui ☎ ☏ ✆ ㄩ 凵
+,ul ㎕ ☽ ☾
+,um ㎛
+,und ✡
+,ups Υ υ
+,uq 豸
+,us ζ ㎲
+,usd ＄
+,uv ㎶
+,uw ㎼
+,uz ↯
+,v 」 ˇ ∠ ν ✓ ✔ ∧ ∨ ” √
+,v.. ǚ
+,v[ ﹁
+,v[[ ︽
+,v] ﹂
+,v]] ︾
+,va 衤 ǎ
+,vbd ∞
+,ve √ ≤ В в ě
+,vg ︵
+,vgg ︶
+,vi Ψ ≮ ≯ ǐ
+,vn ň
+,vo ǒ
+,vp 髟
+,vr ≦ ≧ ≤ ≥
+,vu ǔ
+,vv ﹁ ﹂ 丶
+,w ５ Ⅴ ㄨ ω ♀ ⅴ ⑸ ⑤
+,w. ⒌
+,wa 幺
+,wat ☵
+,wb ㏝
+,wd ☄
+,we ￦ 氵
+,win ☴
+,wn 廴 辶
+,wo ♀
+,won ₩ ￦
+,wp ♨
+,wpb ⅝
+,wpl ⅚
+,wr ₩
+,wu ㄨ
+,wue ㋄
+,x ㄒ × 〆 ╳ 〤 χ ㄨ ✕ ✖ ✗ ✘ Ⅹ
+,xf ※
+,xi ﹡ ＊ ☚ ☜ Ξ
+,xj ＊
+,xn 飠
+,xo ☛ ☞
+,xs ✝ ✞ ✟
+,xx × ✕ ✖ ✗ ✘ ∃ ∤
+,xz ↛
+,y ㄧ
+,ya ㆞
+,yal ㆞
+,ye ±
+,yen ￥ ¥
+,yer Ы ы
+,yi ㄧ
+,yin ☯
+,yr ￥ ¥
+,ys ✝ ✞ ✟
+,yu ㄩ
+,yy ☯
+,z ㄗ ↓ ↑ → ← ↘ ↙ ↗ ↖
+,ze ← З з
+,zed ☺ ☻
+,zei ↤
+,zet Ζ ζ
+,zez ↔ ↢ ↣
+,zgn ☺ ☻
+,zh ㄓ
+,zhe Ж ж
+,zhi ㄓ
+,zi ↑
+,zie ↥
+,ziz ↨
+,zj ↫
+,zkj 卍
+,zl ㆚ ↥ ↩ 虍
+,zn ↖
+,zo ♂
+,zp ↗
+,zs ↜
+,zsz ↭
+,zt ✈
+,zty ✈
+,zu ☺ ☻
+,zwz ↭
+,zx ↚
+,zxz ↮
+,zz 卐 ㆚ ↯
+,zze ↞
+,zzi ↟
+,zzj 卍
+. 。
+., ；
+.. ： ‥ ＋ － × ÷ ＝ 》 ¨ ━ ∶
+... … ∵ ∴
+.mp 彡
+.oq ⓠ
+[ 「 （ ﹁ ﹃ 【 ︻ ︵ 〈
+[[ 『 ﹃ 【 ︻ 《 ︽ «
+[[v ﹃ ︻ ︽
+[v （ ﹁ ︻ ︹ ︷ ︽ ︿ ︵ ∧
+[vv ﹁
+] 」 ） ﹂ ﹄ 】 ︼ ︶ 〉
+]] 』 ﹄ 】 ︼ 》 ︾ »
+]]v ﹄ ︼ ︾
+]v ） ﹂ ︼ ︺ ︸ ︾ ﹀ ︶ ∨
+]vv ﹂
+a 对
+a, あ ぁ
+a. ア ァ
 aa 寸 丶
 aaa 鑫 龘 鑆
 aab 鎯
@@ -827,6 +1666,8 @@ auv 奥
 auwu 鎐
 auy 塱 鋞
 av 族
+av, ぁ
+av. ァ
 ava 鉇
 avd 鉃
 avdp 鍑
@@ -958,6 +1799,8 @@ azx 釻
 azz 钇
 b 八
 ba 不 丷
+ba, ば
+ba. バ
 bac 险
 bad 獘
 bado 凔
@@ -1071,6 +1914,8 @@ bdwf 隰
 bdx 阞
 bdy 坌 阞
 be 并
+be, べ
+be. ベ
 bea 尊
 bead 猷
 beaf 鷷
@@ -1229,6 +2074,8 @@ bhxe 羝
 bhy 羱
 bhzu 叙
 bi 前 阝
+bi, び
+bi. ビ
 biad 状
 bie 仝 冮
 biea 将
@@ -1383,6 +2230,8 @@ bnx 餋 龞
 bnyo 凋
 bnzu 齤
 bo 曾 舍 舎
+bo, ぼ
+bo. ボ
 boa 险
 boc 鄨
 bocl 鄨
@@ -1500,6 +2349,8 @@ btr 刽
 btts 凚
 btzp 夔
 bu 舒
+bu, ぶ
+bu. ブ
 bua 公
 bubp 陖
 bue 阴
@@ -1600,6 +2451,7 @@ bzs 陟
 bzsf 骘
 bzx 阠
 c 七
+c. ！
 ca 夕 虫
 caa 尉 轛
 cab 螂
@@ -1842,6 +2694,8 @@ che 蜮
 chg 蜲
 chhe 轊
 chi 蜵
+chi, ち
+chi. チ
 chj 轷
 chnf 鷵
 cho 屠 蝫
@@ -1852,6 +2706,8 @@ chrt 蟍
 chs 螦
 chu 蜻 輤
 ci 中
+ci, し
+ci. シ
 cie 虹
 cigu 螋
 cih 蠩
@@ -2353,6 +3209,8 @@ czx 軐
 czzz 孱
 d 的
 da 歹
+da, だ
+da. ダ
 daa 太 刃 夺 时
 dac 殓
 dadp 卿
@@ -2466,6 +3324,8 @@ ddvm 旸
 ddx 夯
 ddy 夯
 de 豆 旦
+de, で
+de. デ
 ded 昊 暟
 dede 晅
 dee 互 旦 昢
@@ -2555,6 +3415,8 @@ dhoj 奲
 dhu 晴
 dhx 暧 晙
 di 斗 端
+di, ぢ
+di. ヂ
 did 昮
 die 豇
 dii 曱
@@ -2693,6 +3555,8 @@ dnu 殁
 dnx 阄 曔 刄
 dnyo 奝 晭
 do 日 曰
+do, ど
+do. ド
 doa 殓
 doam 嗧
 dob 邵
@@ -2824,6 +3688,8 @@ dtp 晜
 dtrp 鬫
 dtt 晽
 du 渡
+du, づ
+du. ヅ
 dua 厺
 duad 猒
 dubp 晙
@@ -2914,6 +3780,8 @@ dzl 乧
 dzqf 曥
 dzz 乧
 e 一
+e, え ぇ ゑ へ
+e. エ ェ ヱ ヘ
 ea 与 爫
 eaa 寻 兔 酎 寽
 eabl 辥
@@ -3050,6 +3918,7 @@ edy 勉 峚 屴
 edya 嵵
 edzu 敱
 ee 丑 习 彐
+ee, ─
 eea 屿 翇 酹
 eeax 翇
 eebb 鄝 顟
@@ -3628,6 +4497,8 @@ euur 剻
 euuu 醊
 euw 瓺
 ev 峻
+ev, ぇ
+ev. ェ
 eva 丑 嵬
 eve 崔 醀
 evf 醮 酢 岝 嶕 嶣 岞
@@ -4407,6 +5278,8 @@ ftv 顷
 ftw 熥
 ftwm 爩
 fu 胡
+fu, ふ
+fu. フ
 fuaf 燃
 fuap 燯
 fuat 燯
@@ -4577,6 +5450,8 @@ fzv 旋
 fzz 戹 乤
 g 机
 ga 瓜
+ga, が
+ga. ガ ヵ
 gab 嫏
 gac 嬐
 gad 状 嬒
@@ -4606,6 +5481,7 @@ gaqx 娀
 gaqy 娍
 gat 姈
 gaur 偷 婾
+gav. ヵ
 gax 妭
 gaxu 妭
 gaxx 妭
@@ -4716,6 +5592,8 @@ gdvm 婸
 gdx 勪
 gdy 勪
 ge 垂 臼
+ge, げ
+ge. ゲ ヶ
 gea 将 嬩 婏
 geac 螀
 gead 奖 奨 奬
@@ -4757,6 +5635,7 @@ ges 秉 嬔 嬎
 gesi 娙
 get 婇
 getr 媏
+gev. ヶ
 gevo 孈
 gew 娽
 gewf 妫
@@ -4834,6 +5713,8 @@ ghs 嫊
 ghu 婧
 ghx 嫒
 gi 即 乔 丬 卽 丩
+gi, ぎ
+gi. ギ
 gie 妅
 gii 妽
 gio 娮
@@ -5003,6 +5884,8 @@ gny 姌
 gnyo 婤
 gnz 婝
 go 甘 乔
+go, ご
+go. ゴ
 goa 嬐
 goar 嬼
 gobf 媪
@@ -5214,6 +6097,8 @@ gtoh 媔
 gtp 娣
 gtv 婷
 gu 毁
+gu, ぐ
+gu. グ
 gua 将
 guac 螀
 guad 奖 奨 奬
@@ -5320,6 +6205,8 @@ gzr 婋
 gzu 敽
 h 时
 ha 心
+ha, は
+ha. ハ
 haa 忖
 had 懀
 hadk 悢 稂
@@ -5480,6 +6367,8 @@ hdxx 慡
 hdy 忇 劧
 hdzu 啮
 he 或 恒
+he, へ
+he. ヘ
 hea 懙 穥
 hec 秽
 hed 恺
@@ -5584,6 +6473,8 @@ hhu 情
 hhx 悛 稄 懓
 hhz 悸
 hi 帮
+hi, ひ
+hi. ヒ
 hia 愽
 hij 秿 悑
 himb 愩
@@ -5760,6 +6651,8 @@ hnx 龝
 hnxu 恟
 hnyo 稠 惆
 ho 首 者
+ho, ほ
+ho. ホ
 hoa 惯 憸
 hoae 慖
 hoar 懰
@@ -5930,6 +6823,8 @@ httk 秾
 httz 憷
 htx 稉
 hu 悄
+hu, ふ
+hu. フ
 hua 私
 huac 慅
 hub 郬
@@ -6053,6 +6948,8 @@ hzpp 夔
 hzx 秇
 hzz 忆 乯 乽
 i 后
+i, い ぃ ゐ
+i. イ ィ ヰ
 ia 应 応
 iaa 讨 尃 譵
 iad 譮
@@ -6566,6 +7463,8 @@ iuvd 诶
 iuwu 谣
 iuy 誙
 iv 试
+iv, ぃ
+iv. ィ
 iva 謉
 ive 谁
 ivf 诈 谯
@@ -6996,6 +7895,8 @@ jhj 抙
 jhu 掅
 jhx 捘
 ji 控
+ji, じ ぢ
+ji. ジ ヂ
 jia 博 搏
 jie 扛
 jii 抻
@@ -7676,6 +8577,8 @@ jzx 执
 jzy 垫
 k 九
 ka 黄
+ka, か
+ka. カ
 kaa 玉 斥 丸 々 玊
 kab 琅
 kad 璯
@@ -7706,6 +8609,7 @@ kaqy 珹
 kat 玲
 kaur 瑜
 kav 斥
+kav. ヵ
 kax 斥
 kay 玪 黅 珹
 kayo 琀
@@ -7785,6 +8689,8 @@ kdw 琝
 kdx 勘 玏 劤
 kdy 勘 玏 劤
 ke 王 壬
+ke, け
+ke. ケ
 kea 乓 玙
 keay 琌
 keaz 珷
@@ -7818,6 +8724,7 @@ kesi 氢
 ketr 瑞
 keud 瑨
 kev 壬 璀
+kev. ヶ
 kevo 瓗
 kew 氯
 kewu 瑶
@@ -7856,6 +8763,8 @@ khr 璃 琇
 khu 氰
 khx 瑷
 ki 斤
+ki, き
+ki. キ
 kie 玒
 kifp 璷
 kii 氠 珅
@@ -7876,6 +8785,8 @@ kjqa 瑼
 kjqh 璤
 kjqs 氭 瑓
 kk 环 丂
+kk, っ
+kk. ッ
 kka 璜 珏
 kkay 琴
 kkb 琪 琵 珡
@@ -8004,6 +8915,8 @@ knx 璥
 kny 珃
 knyo 琱
 ko 咸
+ko, こ
+ko. コ
 koa 瑻
 kobf 氲 瑥
 kod 氤 珚 瑨
@@ -8146,6 +9059,8 @@ kttz 璴
 ktu 岳
 ktv 杂 雑
 ku 趣
+ku, く
+ku. ク
 kua 丢 厹
 kuac 瑵
 kubc 瑵
@@ -8240,6 +9155,8 @@ kzr 琥 虓
 kzv 璇
 l 六
 la 丽 离 尞
+la, ら ぁ
+la. ラ ァ
 lab 廊
 lad 厌 猌 廥
 ladb 廊
@@ -8583,6 +9500,8 @@ ldx 历 勷 勑
 ldy 历 勷 勑
 ldz 厚
 le 立 丄
+le, れ ぇ
+le. レ ェ
 leb 庚
 lebb 赓
 lebf 鹒
@@ -8700,6 +9619,8 @@ lhzp 敦
 lhzy 塾 墪
 lhzz 孰
 li 新
+li, り ぃ
+li. リ ィ
 lij 庯
 lil 辩
 lio 竒
@@ -8723,8 +9644,10 @@ ljzk 亵
 ljzx 亵
 lk 哀
 lka 广
+lka. ヵ
 lkb 邝
 lkbk 厮
+lke. ヶ
 lkf 廌
 lkh 懬
 lki 庍
@@ -8817,6 +9740,8 @@ lnt 亭 竚
 lnxu 竤
 lnyk 亴
 lo 路
+lo, ろ ぉ
+lo. ロ ォ
 loa 硠 碒 厱 礲
 loaa 磗
 loab 礆
@@ -9267,11 +10192,15 @@ lttr 劘
 ltts 靡 犘 縻
 lttu 么 魔 黀
 lttv 魔
-lttw 么 庅
+lttw 么
 ltty 塺
 lttz 歴
+ltu, っ
+ltu. ッ
 ltv 亭
 lu 厉
+lu, る ぅ
+lu. ル ゥ
 lua 广 広
 lubp 竣
 luem 廫
@@ -9310,6 +10239,8 @@ lvv 魔
 lvy 厉
 lw 么
 lwa 玄
+lwa, ゎ
+lwa. ヮ
 lwb 耭
 lwbj 率
 lwf 烹
@@ -9354,21 +10285,31 @@ lxx 交
 lxzr 虠
 ly 压
 lya 压 庤 庒
+lya, ゃ
+lya. ャ
 lybk 亵
 lybp 庱
 lyda 厨
 lye 庄
+lye, ぇ
+lye. ェ
 lyfp 廒 厫
 lyhp 庆
+lyi, ぃ
+lyi. ィ
 lyk 衺
 lykk 亵
 lyl 辨 办
+lyo, ょ
+lyo. ョ
 lyoa 厨
 lyp 厊 庌
 lypz 庨
 lyrk 亵
 lyrp 庱
 lyu 厾
+lyu, ゅ
+lyu. ュ
 lyuf 廅
 lyv 座
 lyx 耰 庱
@@ -9398,7 +10339,11 @@ lzz 孰
 lzzf 熟
 lzzy 塾
 m 满 満
+m, ん
+m. ン
 ma 买
+ma, ま
+ma. マ
 maa 籿
 mac 睑
 mad 类 狊 瞺
@@ -9609,6 +10554,8 @@ mdx 助
 mdy 助 鼎
 mdyy 睳
 me 且
+me, め
+me. メ
 meb 具
 med 闿
 mee 睁 闩 粈
@@ -9630,7 +10577,7 @@ mer 兕
 mes 县
 mesb 郻
 mesh 悬
-mess 县 県
+mess 县
 met 睬
 mev 翻
 mew 毽 睷 粶
@@ -9842,6 +10789,8 @@ mhp 閟
 mhu 精 睛
 mhx 瞹 睃
 mi 门
+mi, み
+mi. ミ
 mia 糐 徿 彵
 miad 徻
 miai 术 衔 衑
@@ -10071,6 +11020,8 @@ mmvu 矍
 mmw 瞇 闅
 mmy 闁
 mn 米 釆 阑
+mn, ん
+mn. ン
 mna 球 瞚
 mnb 盷
 mnbf 鹬
@@ -10110,6 +11061,8 @@ mnsb 矉
 mnt 眝
 mnyo 睭
 mo 目
+mo, も
+mo. モ
 moa 睑
 moca 团
 moe 閸
@@ -10274,6 +11227,8 @@ mtw 澃
 mtx 粳 瞮
 mtzf 頾
 mu 睛
+mu, む
+mu. ム
 mua 县
 muac 糔
 mubc 糔
@@ -10361,7 +11316,11 @@ mzqf 矑
 mzv 徒
 mzx 籸
 n 南
+n, ん
+n. ン
 na 求 寅
+na, な
+na. ナ
 naa 守 勺 々
 nad 献
 nae 丹
@@ -10562,6 +11521,8 @@ ndw 迿
 ndx 觔 勨
 ndy 觔 勨
 ne 角
+ne, ね
+ne. ネ
 nea 冤 寃
 neb 邹
 nede 宣 翧
@@ -10647,6 +11608,8 @@ nfvz 寲
 nfw 迱
 nfz 鳦
 ng 安
+ng, ん
+ng. ン
 nga 觚
 nge 寎 臽
 ngeb 寎
@@ -10688,6 +11651,8 @@ nhpq 寗
 nhpy 寗
 nhu 寈
 ni 市 巾 匋
+ni, に
+ni. ニ
 nii 审 亇
 nij 匍
 nimb 幊
@@ -10783,6 +11748,8 @@ nmr 刎
 nmv 雕
 nmx 幔
 nn 象 罙
+nn, ん
+nn. ン
 nna 觩
 nnbd 奂
 nnbf 烉
@@ -10810,6 +11777,8 @@ nnrd 奂
 nnrf 烉
 nnxp 夐
 no 周
+no, の
+no. ノ
 noa 实
 noae 帼
 nob 帜 邭
@@ -11039,6 +12008,8 @@ ntnf 鸋
 ntqb 寅
 ntt 冧
 nu 窃
+nu, ぬ
+nu. ヌ
 nua 勾 禸
 nube 宻
 nudm 幓
@@ -11106,6 +12077,8 @@ nzp 幯
 nzt 顁
 nztb 顁
 o ○ 〇
+o, お ぉ を
+o. オ ォ ヲ
 oa 贯 佥
 oaa 吋 团 団 嚉
 oab 啷
@@ -11861,6 +12834,8 @@ ouw 瓹
 ouwu 嗂
 oux 叹
 ov 品
+ov, ぉ
+ov. ォ
 ove 唯
 ovf 咋 噍
 ovff 呒
@@ -12194,6 +13169,8 @@ ozzs 踄
 ozzz 踕
 p 备
 pa 卜 悤 恖
+pa, ぱ
+pa. パ
 paa 付 卪
 pac 俭 倹
 pacb 倹
@@ -12431,6 +13408,8 @@ pdys 皌
 pdyu 殷
 pdzf 皉
 pe 至
+pe, ぺ
+pe. ペ
 peay 侺
 peaz 倵
 peb 俩
@@ -12571,6 +13550,8 @@ phur 儬
 phv 您
 phx 俊 僾
 pi 譬 片 卩
+pi, ぴ
+pi. ピ
 pia 傅 傠 牔
 pie 仜
 pifd 候
@@ -12819,6 +13800,8 @@ pnw 傛
 pnx 儆
 pnyo 倜
 po 个
+po, ぽ
+po. ポ
 poa 俭 乓
 pob 邱 兵 伿
 pobb 兴
@@ -12961,7 +13944,7 @@ prff 熈
 prg 佞
 pri 到 佽 侕
 prj 佴
-prl 凡 仉 凢 処
+prl 凡 仉 凢
 prlh 惫
 prlq 备
 prn 伋
@@ -13056,6 +14039,8 @@ pttz 儊
 ptu 俼
 ptx 便
 pu 偶
+pu, ぷ
+pu. プ
 pua 么 幺 似 仏
 pub 似
 pubp 俊
@@ -13720,6 +14705,8 @@ qzu 敲
 qzx 犱
 r 二
 ra 兆 耐 巜
+ra, ら
+ra. ラ
 raa 凡 耐 薱
 rab 蓈
 rabm 糵
@@ -14044,6 +15031,8 @@ rdx 劝 薞 艻
 rdy 劝 艻
 rdya 莳
 re 臣 雚 卝
+re, れ
+re. レ
 rea 菟 藇
 reap 虁
 rebq 蕐
@@ -14258,6 +15247,8 @@ rhy 薐
 rhyp 薐
 rhz 萟
 ri 而 巜
+ri, り
+ri. リ
 ria 蒪
 rid 蔼
 ridb 蔼
@@ -14577,6 +15568,8 @@ rny 苒 聃 襾
 rnz 萣 茡
 rnzo 萜
 ro 落 廿
+ro, ろ
+ro. ロ
 roa 莶
 roae 蔮
 roar 藰
@@ -14992,6 +15985,8 @@ rty 荰
 rtyy 蓕
 rtzp 虁 蘷
 ru 万
+ru, る
+ru. ル
 rua 苡 鉴 蓣
 ruap 蕶
 ruat 蕶
@@ -15278,7 +16273,10 @@ rzz 艺
 rzzt 蘃
 rzzz 蕋
 s 三
+s. ？
 sa 小 纟 賏 巛 糹
+sa, さ
+sa. サ
 saa 射 纣
 sad 绘 紎 絵
 sadk 躴
@@ -15394,6 +16392,8 @@ sdv 绪
 sdx 劣 牞 糼
 sdy 劣 牞 糼
 se 生
+se, せ
+se. セ
 seaf 繎
 seb 兴 緉
 sebh 挙
@@ -15483,6 +16483,8 @@ shde 緪
 she 緎
 shee 緪 縆
 shg 緌 躷
+shi, し
+shi. シ
 shmb 绩
 sho 绪 緖
 shr 绣
@@ -15491,6 +16493,8 @@ shu 綪
 shv 掌
 shzp 犪
 si 川 个 巛
+si, し
+si. シ
 sia 缚
 sid 劲
 sie 红 巠
@@ -15726,6 +16730,8 @@ snz 学 绽 牸
 snzp 敩 斆
 snzu 斅
 so 当
+so, そ
+so. ソ
 sob 织 郜
 sobf 缊
 sobs 巤
@@ -15856,6 +16862,8 @@ srvr 缆
 srw 选
 srx 綅
 ss 综
+ss, っ
+ss. ッ
 ssa 丝
 ssb 邾 絑
 sse 牲 甡
@@ -15900,6 +16908,8 @@ str 统
 stt 綝
 stx 绠
 su 淑
+su, す
+su. ス
 suaf 繎
 sudm 縿
 sue 肖
@@ -15993,6 +17003,8 @@ szqf 纑
 szx 纨
 t 通
 ta 页 云
+ta, た
+ta. タ
 taa 村
 tab 榔
 tac 检 検
@@ -16177,6 +17189,8 @@ tdya 榯
 tdyy 楏
 tdzp 夒
 te 台
+te, て
+te. テ
 tea 樳 桪
 teaf 橪
 teay 梣
@@ -16330,6 +17344,8 @@ thu 棈
 thw 檤
 thx 梭
 ti 丁 丅
+ti, ち
+ti. チ
 tia 榑
 tib 桏
 tie 杠
@@ -16630,6 +17646,8 @@ tny 再 柟
 tnyo 椆
 tnz 椗
 to 可 凸
+to, と
+to. ト
 toa 检 樌
 toae 槶
 toar 檝
@@ -16853,7 +17871,11 @@ tsrb 攒
 tss 株
 tst 弃 楪
 tsu 梢
+tsu, つ っ
+tsu. ツ ッ
 tt 哥
+tt, っ
+tt. ッ
 tta 顶 枟
 ttay 棽
 ttaz 椘
@@ -16904,6 +17926,8 @@ tty 埜
 ttyz 楚
 ttz 梵
 tu 样
+tu, つ っ
+tu. ツ ッ
 tua 树 杈
 tuaf 橪
 tubp 梭
@@ -16936,12 +17960,16 @@ tuum 槮
 tuus 櫾
 tuut 槡
 tuuu 棳
+tuv, っ
+tuv. ッ
 tuw 逳
 tuws 櫾
 tuwu 榣
 tux 权
 tuy 桱
 tv 模
+tv, っ
+tv. ッ
 tva 魂 槐 柂
 tvc 椤
 tvd 櫆
@@ -17089,6 +18117,8 @@ tzw 榩
 tzyd 櫡
 tzz 朰
 u 以
+u, う ぅ
+u. ウ ゥ
 ua 雨 厶
 uaa 叉 对 肘
 uac 蚤 脸
@@ -17909,6 +18939,8 @@ uuw 遥
 uux 双
 uuy 胫
 uv 越 霍
+uv, ぅ
+uv. ゥ
 uva 胣
 uvd 矣
 uvdi 欸
@@ -18004,6 +19036,7 @@ uzqf 胪
 uzx 肒
 uzz 臆 肊
 v 要
+v. ！
 v[ ﹁ ⅸ
 v[[ ﹃
 v] ﹂ ⅹ
@@ -18431,6 +19464,8 @@ vts 裗
 vtts 襟
 vtxh 襻
 vu 松
+vu, ゔ
+vu. ヴ
 vua 衩
 vudm 襂 鬖
 vue 衻 髥
@@ -18520,6 +19555,8 @@ vzw 迄
 vzz 乞
 w 五
 wa 瓦 为 幺 氺 么
+wa, わ ゎ は
+wa. ワ ヮ ハ
 waa 对 濧 対
 wab 乡
 wabc 蠁
@@ -18566,6 +19603,8 @@ watp 溆
 watu 潊
 waty 涂
 waur 渝
+wav, ゎ
+wav. ヮ
 wax 沷 韨
 waxu 泼 浳
 waxx 沷 韨
@@ -18759,6 +19798,8 @@ wdya 溡
 wdyd 濐
 wdz 孧
 we 武 巫
+we, ゑ
+we. ヱ
 wea 浔 浖
 weab 赟
 weay 涔
@@ -18968,6 +20009,8 @@ whx 浚
 whxo 湱
 whyu 鼝
 wi 了
+wi, ゐ
+wi. ヰ
 wia 溥
 wic 螸
 wie 江
@@ -19296,6 +20339,8 @@ wnxu 汹 浤
 wnyo 淍
 wnz 淀
 wo 谷
+wo, を
+wo. ヲ
 woa 澰
 woae 漍
 woar 浏
@@ -19647,6 +20692,8 @@ wtwm 灪
 wtx 澈 浭
 wtyy 溎
 wu 法
+wu, う ぅ
+wu. ウ ゥ
 wua 滪 汊 泤 浖
 wuac 溞
 wuap 澪
@@ -19693,6 +20740,8 @@ wuu 淜 滛
 wuum 渗
 wuuu 涰
 wuv 滩 瀖
+wuv, ぅ
+wuv. ゥ
 wuvd 涘
 wuw 缻
 wuwu 滛
@@ -19855,6 +20904,8 @@ wzx 汛 汍
 wzzz 涩
 x 有
 xa 专
+xa, ぁ
+xa. ァ
 xaf 饯
 xaja 馎
 xajq 餔
@@ -19905,6 +20956,8 @@ xdp 飹
 xdql 餣
 xdvm 饧
 xe 密
+xe, ぇ
+xe. ェ
 xeb 邸 馋
 xec 饖
 xee 氐 饳
@@ -19939,6 +20992,8 @@ xhg 餧
 xhp 飶
 xhx 馂
 xi 乡 郷
+xi, ぃ
+xi. ィ
 xia 馎
 xie 左
 xij 餔
@@ -19958,7 +21013,9 @@ xjnz 饽
 xjou 餬
 xjrb 饙
 xk 夸
+xka. ヵ
 xke 饪
+xke. ヶ
 xki 斲
 xkm 饩
 xkx 饯
@@ -20002,6 +21059,8 @@ xnoe 馋
 xnol 饱 匏
 xny 冇
 xo 商
+xo, ぉ
+xo. ォ
 xolb 馔
 xoo 右
 xoq 馏
@@ -20057,7 +21116,11 @@ xtn 杀
 xtnd 餪
 xtr 剎 刹
 xtru 杀
+xtu, っ
+xtu. ッ
 xu 杀
+xu, ぅ
+xu. ゥ
 xua 龓 厷
 xuae 戫
 xub 郁
@@ -20084,6 +21147,8 @@ xvnk 馕
 xvs 餗
 xw 随
 xwa 甋 砖
+xwa, ゎ
+xwa. ヮ
 xwb 饥
 xwn 适 迓 迶
 xwwb 饥
@@ -20106,17 +21171,29 @@ xxxn 餙
 xxxu 肴
 xxzp 教 敎
 xy 在
+xya, ゃ
+xya. ャ
 xydo 饎
+xye, ぇ
+xye. ェ
 xyeo 饲
+xyi, ぃ
+xyi. ィ
 xynd 饐
+xyo, ょ
+xyo. ョ
 xyoo 饎
 xyr 饶
+xyu, ゅ
+xyu. ュ
 xyuf 馌
 xyyr 饶
 xz 存
 xzas 饖
 y 益
 ya 原
+ya, や ゃ
+ya. ヤ ャ
 yaa 寺 圡
 yab 邿
 yadk 埌
@@ -20140,6 +21217,8 @@ yaqy 城
 yat 坽
 yaur 堬
 yav 寿
+yav, ゃ
+yav. ャ
 yaw 逇
 yax 坺
 yaxu 坺
@@ -20556,6 +21635,8 @@ ynt 坾
 yntu 榖
 ynw 塎
 yo 超
+yo, よ ょ
+yo. ヨ ョ
 yob 郆
 yoba 尌
 yobb 冬
@@ -20602,6 +21683,8 @@ yot 颉
 yotb 颉
 you 埍 垇
 yov 嘉
+yov, ょ
+yov. ョ
 yow 迼
 yox 毐 壧 垊
 yoyo 喆 嚞
@@ -20747,6 +21830,8 @@ ytqx 埂
 ytu 堉
 ytx 埂
 yu 报
+yu, ゆ ゅ
+yu. ユ ュ
 yua 去 埒
 yub 郄
 yubp 埈
@@ -20772,6 +21857,8 @@ yutr 壖
 yuu 堋
 yuum 墋
 yuv 鼓
+yuv, ゅ
+yuv. ュ
 yuvd 埃
 yux 鼁
 yv 土
@@ -20934,6 +22021,8 @@ yzzj 趠
 yzzo 趈
 z 整
 za 舟 丸
+za, ざ
+za. ザ
 zaaq 籛
 zac 签
 zacw 箓
@@ -21045,6 +22134,8 @@ zdup 节
 zdx 虏 竻 勮
 zdy 虏 竻 勮
 ze 止 孒
+ze, ぜ
+ze. ゼ
 zea 籅
 zed 笑
 zee 虐 筝 翙 笜
@@ -21163,6 +22254,8 @@ zhp 虙
 zhr 筣
 zhu 箐
 zi 竹
+zi, じ ぢ
+zi. ジ ヂ
 zib 筇
 zie 笁 舡
 zif 簠
@@ -21172,6 +22265,8 @@ ziq 笛 舳
 zira 筑
 zirh 篫
 zirt 筑
+ziv, ぢ
+ziv. ヂ
 ziz 筑
 zizh 篫
 zizt 筑
@@ -21337,6 +22432,8 @@ znu 肻
 znv 筛 篧
 znwy 壑
 zo 店
+zo, ぞ
+zo. ゾ
 zoa 签
 zoae 簂
 zoaq 战
@@ -21536,6 +22633,8 @@ zttm 虨
 ztv 龄
 ztx 筻
 zu 般
+zu, ず づ
+zu. ズ ヅ
 zua 笖
 zuap 龄
 zuat 龄
@@ -21588,6 +22687,8 @@ zutz 齼
 zuum 篸
 zuuo 齝
 zuv 籗 齮
+zuv, づ
+zuv. ヅ
 zuvf 齚
 zuvv 籱
 zuvz 龁
