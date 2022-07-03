@@ -4,6 +4,12 @@
 [32位元執行檔](https://www.virustotal.com/gui/file/93f3fd30a75d9dc6a156ab6885fe6fa3c7522234d7c73c953204124a9722a57f)
 [64位元執行檔](https://www.virustotal.com/gui/file/8b8f4e5c12b98223e1f2b29fbfd4187fc07ff3a6b540db9df62cd1d28ae5759a)
 
+### 更新 2022-07-03
+- 提供設定介面，提供的設定內容為`Main.ini`對應的設定值，這些都算是常用與一般使用者會變動的設定。
+- 對介面按下右鍵，可以跳出設定介面的視窗，系統列也新增可以開啟設定介面的選項。
+- `Table.ini`、`Hotkey.ini`、`Style.ini`、`Hotkey.ini`屬於比較進階的設定，以及設定好之後就會很少更動，因此這幾個檔案相關的設定目前無考慮加入設定介面的選項中。
+- 使用新版的 AHK 編譯，內部程式碼修正。
+
 ### 更新 2022-06-27
 將 INI 檔案拆成數個設定檔，放到`Config`中:
 - `Main.ini`: 主要設定
@@ -27,6 +33,7 @@
 
 # 介面範例
 ![image](Config/SampleUI.png)  
+![image](Config/SampleSetting.png)  
 
 # 下載方式如下圖  
 ![image](Config/SampleDL.png)
@@ -37,9 +44,8 @@
 - 程式執行時，會載入 `Config\LastPosition.ini` 儲存的座標位置，輸入介面有變更位置時會更新此檔案。刪除此檔案，執行時輸入介面會以預設值顯示在螢幕左下角。
 - 若是有多個螢幕時，輸入介面會自動移到焦點視窗所在的螢幕，介面會顯示在一樣的相對位置。
 
-## 熱鍵功能 (2022-06-27 更新)
+## 熱鍵功能 (2022-07-03 更新)
 除了輸入法的開啟/關閉，其它的熱鍵皆在輸入法介面開啟時才會作用。
-- Ctrl-Space: 輸入法開啟/關閉。
 - Shift-Space: 半形/全形 輸入。
 - Shift+,. 或 Pgup/Pgdn: 在多頁選字時，切換上下頁。
 - Ctrl-Alt-B: 開啟自訂字詞檔。
@@ -50,7 +56,7 @@
 - Ctrl-Alt-O: 輸入介面位置重設。
 - Ctrl-Alt-P: 進入注音模式。
 - Ctrl-Alt-R: 重新載入程式。
-- Ctrl-Alt-X: 結束程式。另外對輸入介面按滑鼠右鍵也可以結束程式。
+- Ctrl-Alt-X: 結束程式。
 - Ctrl-Alt-Shift-C: 查詢焦點視窗的 Class Name。
 - Ctrl-Alt-Shift-T: 查詢焦點視窗的視窗標題。
 
