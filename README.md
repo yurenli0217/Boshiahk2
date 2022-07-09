@@ -1,8 +1,13 @@
 # Boshiahk2 - 嘸蝦殼 V2
 免安裝的嘸蝦米輸入工具，以 AutoHotkey V2 開發。  
 本程式會攔截鍵盤事件，所以會被某些掃毒軟體誤判，附上掃毒結果給大家參考：  
-[32位元執行檔](https://www.virustotal.com/gui/file/93f3fd30a75d9dc6a156ab6885fe6fa3c7522234d7c73c953204124a9722a57f)
-[64位元執行檔](https://www.virustotal.com/gui/file/8b8f4e5c12b98223e1f2b29fbfd4187fc07ff3a6b540db9df62cd1d28ae5759a)
+[32位元執行檔(VirusTotal)](https://www.virustotal.com/gui/file/2831bb4021642585650003b95ccca30745cbd47e2d1c31b36dc99ca10a8f629c?nocache=1)
+[32位元執行檔(Virscan)](https://www.virscan.org/report/2831bb4021642585650003b95ccca30745cbd47e2d1c31b36dc99ca10a8f629c)
+[64位元執行檔(VirusTotal)](https://www.virustotal.com/gui/file/9315e78527cf2cbfeb4c86a25be57598476aa551c8f4012c99384986eb507d44?nocache=1)
+[64位元執行檔(Virscan)](https://www.virscan.org/report/9315e78527cf2cbfeb4c86a25be57598476aa551c8f4012c99384986eb507d44)
+
+### 更新 2022-07-09
+- 因誤判的關係，提供另一種格式的執行檔，`Boshiahk2x64m.exe`、`Boshiahk2x86m.exe`，請大家試試看，哪一種的誤判率較低。
 
 ### 更新 2022-07-03
 - 提供設定介面，提供的設定內容為`Main.ini`對應的設定值，這些都算是常用與一般使用者會變動的設定。
@@ -32,6 +37,7 @@
 - 修正同音字(Ctrl+數字)查詢功能，按ESC取消但卻無效的情況。
 
 # 介面範例
+### 程式中所使用的字體是[「霞鶩文楷」](https://github.com/lxgw/LxgwWenKai)。
 ![image](Config/SampleUI.png)  
 ![image](Config/SampleSetting.png)  
 
