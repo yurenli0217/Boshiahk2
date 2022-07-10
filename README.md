@@ -1,10 +1,14 @@
 # Boshiahk2 - 嘸蝦殼 V2
 免安裝的嘸蝦米輸入工具，以 AutoHotkey V2 開發。  
 本程式會攔截鍵盤事件，所以會被某些掃毒軟體誤判，附上掃毒結果給大家參考：  
-[32位元執行檔(VirusTotal)](https://www.virustotal.com/gui/file/2831bb4021642585650003b95ccca30745cbd47e2d1c31b36dc99ca10a8f629c?nocache=1)
-[32位元執行檔(Virscan)](https://www.virscan.org/report/2831bb4021642585650003b95ccca30745cbd47e2d1c31b36dc99ca10a8f629c)
-[64位元執行檔(VirusTotal)](https://www.virustotal.com/gui/file/9315e78527cf2cbfeb4c86a25be57598476aa551c8f4012c99384986eb507d44?nocache=1)
+[32位元執行檔(VirusTotal)](https://www.virustotal.com/gui/file/2831bb4021642585650003b95ccca30745cbd47e2d1c31b36dc99ca10a8f629c?nocache=1)  
+[32位元執行檔(Virscan)](https://www.virscan.org/report/2831bb4021642585650003b95ccca30745cbd47e2d1c31b36dc99ca10a8f629c)  
+[64位元執行檔(VirusTotal)](https://www.virustotal.com/gui/file/9315e78527cf2cbfeb4c86a25be57598476aa551c8f4012c99384986eb507d44?nocache=1)  
 [64位元執行檔(Virscan)](https://www.virscan.org/report/9315e78527cf2cbfeb4c86a25be57598476aa551c8f4012c99384986eb507d44)
+
+### 更新 2022-07-10
+- 自訂詞可設定最長顯示長度，過長會用「…」表示。
+- 系統列和狀態提示按下右鍵都會顯示選單，並在選單項目上加上快捷鍵。
 
 ### 更新 2022-07-09
 - 因誤判的關係，提供另一種格式的執行檔，`Boshiahk2x64m.exe`、`Boshiahk2x86m.exe`，請大家試試看，哪一種的誤判率較低。
