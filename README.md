@@ -25,7 +25,7 @@
 # 下載方式
 - 直接到 [Release](https://github.com/yurenli0217/Boshiahk2/releases) 頁面下載即可。
 - 因為程式多少會有被誤判的機會，所以同時提供 x86 和 x64 的執行檔，下載時只要選擇一個不會被誤判的下載即可。
-- 建立一個資料夾，例如 `Boshiahk2`。將 `Boshiahk2_Config.zip` 內的檔案解壓縮到此資料夾後，再把執行檔放進這個資料夾執行即可開始使用。
+- 建立一個資料夾，例如 `Boshiahk2`。將 `Config.zip` 內的檔案解壓縮到此資料夾後，再把執行檔放進這個資料夾執行即可開始使用。
 
 # 介面範例
 ### 程式中所使用的字體是[「霞鶩文楷」](https://github.com/lxgw/LxgwWenKai)。
