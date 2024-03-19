@@ -1,10 +1,8 @@
 # Boshiahk2 - 嘸蝦殼 V2  [![HitCount](https://hits.dwyl.com/yurenli0217/Boshiahk2.svg?style=flat)](http://hits.dwyl.com/yurenli0217/Boshiahk2)
 免安裝的嘸蝦米輸入工具，以 AutoHotkey V2 開發。  
 本程式會攔截鍵盤事件，所以會被某些掃毒軟體誤判，附上掃毒結果給大家參考：  
-[32位元執行檔(VirusTotal)](https://www.virustotal.com/gui/file/2831bb4021642585650003b95ccca30745cbd47e2d1c31b36dc99ca10a8f629c?nocache=1)  
-[32位元執行檔(Virscan)](https://www.virscan.org/report/2831bb4021642585650003b95ccca30745cbd47e2d1c31b36dc99ca10a8f629c)  
-[64位元執行檔(VirusTotal)](https://www.virustotal.com/gui/file/9315e78527cf2cbfeb4c86a25be57598476aa551c8f4012c99384986eb507d44?nocache=1)  
-[64位元執行檔(Virscan)](https://www.virscan.org/report/9315e78527cf2cbfeb4c86a25be57598476aa551c8f4012c99384986eb507d44)
+[32位元執行檔(VirusTotal)](https://www.virustotal.com/gui/file/e3bde48a2dfc776abf793c6cebd40b27d93f608a070383a92baa4fc68ed1f2f2?nocache=1)  
+[64位元執行檔(VirusTotal)](https://www.virustotal.com/gui/file/24e5bc0c27099152b97efc0dc5c4892cceececa1232f080ff5f038c8f2ec3529?nocache=1)  
 
 # 緣起
 嘸蝦米輸入法是一個很好用的輸入法，但並不是每台電腦都有嘸蝦米輸入法。  
