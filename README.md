@@ -1,5 +1,6 @@
 # Boshiahk2 - 嘸蝦殼 V2  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyurenli0217%2FBoshiahk2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 免安裝的嘸蝦米輸入工具，以 AutoHotkey V2 開發。  
+
 本程式會攔截鍵盤事件，所以會被某些掃毒軟體誤判，附上掃毒結果給大家參考：  
 [32位元執行檔(VirusTotal)](https://www.virustotal.com/gui/file/e3bde48a2dfc776abf793c6cebd40b27d93f608a070383a92baa4fc68ed1f2f2?nocache=1)  
 [64位元執行檔(VirusTotal)](https://www.virustotal.com/gui/file/24e5bc0c27099152b97efc0dc5c4892cceececa1232f080ff5f038c8f2ec3529?nocache=1)  
@@ -11,26 +12,51 @@
 為了方便在任何電腦上都能使用，我興起了一個念頭，使用 AHK 來開發一個免安裝的嘸蝦米輸入工具，讓我能夠在任何電腦上使用嘸蝦米輸入法打中文，並且也讓嘸蝦米的使用者在遇到輸入法的問題時，能夠有另一個選擇。  
 只要 AHK 還能用，這個工具就會一直存在，持續維護。
 
-### 更新 2024-10-07
-- 嘗試修正注音模式錯誤的問題
-- 嘗試修正開機啟動時會有找不到工作列的問題
 
-### 更新 2024-09-01
-- 中英模式切換觸發後，可以選擇顯示/隱藏介面，功能類似開啟/關閉輸入介面
-
-### 更新 2024-05-16
-- 修正萬用查碼功能失效的問題。
-
-### 更新 2024-04-29
-- Autohotkey 核心更新為 2.0.10
-
-### 更新 2024-03-19
-- 嘗試修正外接螢幕時會出錯的問題，有外接螢幕或多螢幕的使者用再試試看。
-
-# 下載方式
+# 安裝方式
 - 直接到 [Release](https://github.com/yurenli0217/Boshiahk2/releases) 頁面下載即可。
 - 因為程式多少會有被誤判的機會，所以同時提供 x86 和 x64 的執行檔，下載時只要選擇一個不會被誤判的下載即可。
-- 建立一個資料夾，例如 `Boshiahk2`。將 `Config.zip` 以及 `Table.zip` 內的檔案解壓縮到此資料夾後，再把執行檔放進這個資料夾執行即可開始使用。
+- 建立一個資料夾，例如 `Boshiahk2`。將 `Config.zip` 以及 `Table.zip` (and/or `Table_Ext.zip`) 內的檔案解壓縮到此資料夾後，再把執行檔放進這個資料夾執行即可開始使用。
+- 檔案結構(以win-x64為例)： 
+
+```
+    Boshiahk2x64.exe
+│
+├───Config
+│   │   ClipAuto.txt
+│   │   Hotkey.ini
+│   │   LastPosition.ini
+│   │   Main.ini
+│   │   Style.ini
+│   │   Table.ini
+│   │
+│   └───Icons
+│           CN.ico
+│           En.ico
+│           Full.ico
+│           JP.ico
+│           Kor.ico
+│           OFF.ico
+│           ON.ico
+│
+├───Table
+│       LiuCJK.txt
+│       LiuCom.txt
+│       LiuJAP.txt
+│       LiuT2S.txt
+│       LiuUser.txt
+│       M_Kor.txt
+│       Phonetic.txt
+│
+└───Table_
+        LiuExt.txt
+        M_Com.txt
+        M_Jap.txt
+        M_T2S.txt
+        M_Uni.txt
+        M_User.txt
+        PhoneticCNS.txt
+```
 
 # 介面範例
 ### 程式中所使用的字體是[「霞鶩文楷」](https://github.com/lxgw/LxgwWenKai)。
@@ -122,5 +148,23 @@
 視窗標題也可以支援正規表示法比對字串，這是比較進階的用法，有興趣的可以試試。  
 視窗標題比對時的英文文字不分大小寫。
 
-# 歷史更新
-[連結](https://github.com/yurenli0217/Boshiahk2/blob/main/History.md)
+
+# Version History
+
+### 更新 2024-10-07
+- 嘗試修正注音模式錯誤的問題
+- 嘗試修正開機啟動時會有找不到工作列的問題
+
+### 更新 2024-09-01
+- 中英模式切換觸發後，可以選擇顯示/隱藏介面，功能類似開啟/關閉輸入介面
+
+### 更新 2024-05-16
+- 修正萬用查碼功能失效的問題。
+
+### 更新 2024-04-29
+- Autohotkey 核心更新為 2.0.10
+
+### 更新 2024-03-19
+- 嘗試修正外接螢幕時會出錯的問題，有外接螢幕或多螢幕的使者用再試試看。
+
+### [過去版本](https://github.com/yurenli0217/Boshiahk2/blob/main/History.md)
