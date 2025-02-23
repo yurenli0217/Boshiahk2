@@ -27,9 +27,8 @@
 - 中英模式切換觸發後，可以選擇顯示/隱藏介面，功能類似開啟/關閉輸入介面
 
 # 下載方式
-- 直接到 [Release](https://github.com/yurenli0217/Boshiahk2/releases) 頁面下載即可。
-- 因為程式多少會有被誤判的機會，所以同時提供 x86 和 x64 的執行檔，下載時只要選擇一個不會被誤判的下載即可。
-- 建立一個資料夾，例如 `Boshiahk2`。將 `Config.zip` 以及 `Table.zip` 內的檔案解壓縮到此資料夾後，再把執行檔放進這個資料夾執行即可開始使用。
+- 直接到 [Release](https://github.com/yurenli0217/Boshiahk2/releases) 頁面下載 `Boshiahk2.zip` 即可。
+- 建立一個資料夾，例如 `Boshiahk2`。將 `Boshiahk2.zip` 在此資料夾內解壓縮，執行 Boshiahk2x64.exe 即可開始使用。
 
 # 介面範例
 ### 程式中所使用的字體是[「霞鶩文楷」](https://github.com/lxgw/LxgwWenKai)。
