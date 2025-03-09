@@ -1,7 +1,7 @@
 # Boshiahk2 - 嘸蝦殼 V2  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyurenli0217%2FBoshiahk2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 免安裝的嘸蝦米輸入工具，以 AutoHotkey V2 開發。  
 本程式會攔截鍵盤事件，所以會被某些掃毒軟體誤判，附上掃毒結果給大家參考：  
-[線上掃毒結果網頁](https://www.virustotal.com/gui/file/28980e08fcbcbdde56fdb79ad8a13473fa7d0d1d8bf5475ed811c38f5ba0ebfd)  
+[線上掃毒結果網頁](https://www.virustotal.com/gui/file/7053195c688ada220f243644a90a736d0d199660b6b1212166077be03d82f39f?nocache=1)  
 
 # 緣起
 嘸蝦米輸入法是一個很好用的輸入法，但並不是每台電腦都有嘸蝦米輸入法。  
