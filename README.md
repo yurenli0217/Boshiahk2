@@ -26,7 +26,7 @@
 
 # 介面範例
 ### 程式中所使用的字體是[「霞鶩文楷」](https://github.com/lxgw/LxgwWenKai)。
-![image](Images/UI.png)  
+![image](Images/Demo.gif)  
 ![image](Images/Settings.png)  
 
 # 程式執行前置作業
