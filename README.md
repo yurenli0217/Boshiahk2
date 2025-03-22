@@ -1,7 +1,7 @@
-# Boshiahk2 - 嘸蝦殼 V2  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyurenli0217%2FBoshiahk2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# Boshiahk2 - 嘸蝦殼2  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyurenli0217%2FBoshiahk2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 免安裝的嘸蝦米輸入工具，以 AutoHotkey V2 開發。  
 本程式會攔截鍵盤事件，所以會被某些掃毒軟體誤判，附上掃毒結果給大家參考：  
-[線上掃毒結果網頁](https://www.virustotal.com/gui/file/7053195c688ada220f243644a90a736d0d199660b6b1212166077be03d82f39f?nocache=1)  
+[線上掃毒結果網頁](https://www.virustotal.com/gui/file/a7865e3fdc1e8fcac64e081b9852cec6c82db93d0b9bedc78a4b666c7d79ec3b?nocache=1)  
 
 # 緣起
 嘸蝦米輸入法是一個很好用的輸入法，但並不是每台電腦都有嘸蝦米輸入法。  
@@ -10,26 +10,15 @@
 為了方便在任何電腦上都能使用，我興起了一個念頭，使用 AHK 來開發一個免安裝的嘸蝦米輸入工具，讓我能夠在任何電腦上使用嘸蝦米輸入法打中文，並且也讓嘸蝦米的使用者在遇到輸入法的問題時，能夠有另一個選擇。  
 只要 AHK 還能用，這個工具就會一直存在，持續維護。
 
+### 更新 2025-03-22
+- 修改注音模式的輸入方式 [說明](#注音模式)
+- 調整送英文的熱鍵 [說明](#在中文輸入模式下，可配合以下熱鍵直接送出英文：)
+
 ### 更新 2025-03-09
 - 嘗試修改剪貼簿模式下的文字預覽框，可以在雙螢幕下顯示在焦點視窗所在的螢幕中
   
 ### 更新 2025-03-02
 - `Style.ini` 中新增剪貼簿模式文字編輯框的字體相關設定
-
-### 更新 2025-02-23
-- 保留剪貼簿模式目前Bug較多，先移除此功能。
-- 剪貼簿模式新增兩個，請參閱下方使用說明。
- 
-### 更新 2025-02-18
-- 修正輸入法啟用下 Ctrl 或 Alt 鍵無法使用的問題，如 Chrome 的 Ctrl+數字鍵。
-- 更新 AutoHotkey 核心。
-
-### 更新 2024-10-07
-- 嘗試修正注音模式錯誤的問題
-- 嘗試修正開機啟動時會有找不到工作列的問題
-
-### 更新 2024-09-01
-- 中英模式切換觸發後，可以選擇顯示/隱藏介面，功能類似開啟/關閉輸入介面
 
 # 下載方式
 - 直接到 [Release](https://github.com/yurenli0217/Boshiahk2/releases) 頁面下載 `Boshiahk2.zip` 即可。
@@ -68,7 +57,7 @@
 - `Ctrl-Alt-K`: 複製一個文字後，按下此熱鍵可以顯示該字的所有拆碼。
 - `Ctrl-Alt-L`: 切換送字後顯示3碼以內的拆碼
 - `Ctrl-Alt-O`: 輸入介面位置重設。
-- `Ctrl-Alt-P`: 進入注音模式。
+- `Ctrl-Alt-P`: 切換/離開 注音模式。
 - `Ctrl-Alt-R`: 重新載入程式。
 - `Ctrl-Alt-X`: 結束程式。
 - `Ctrl-Alt-Shift-C`: 查詢焦點視窗的 Class Name。
@@ -77,6 +66,11 @@
  - `Enter`: 直接送出英文，全大寫
  - `Ctrl -Enter`: 送出首字大寫的英文
  - `Shift-Enter`: 送出英文，全部小寫
+
+## 注音模式
+- 利用熱鍵 Ctrl-Alt-P 可以切換注音模式與正常模式。
+- 在注音模式下，可連續以注音輸入中文。
+- 注音模式下的選字方式改成`Alt-0`~`Alt-9`
 
 ## 查詢功能
 - 萬用碼查碼: 先輸入前導碼`[`，再輸入字根，不確定字根用`.`來代表。如`[A..P`，會顯示字碼首碼為`A`、尾碼為`P`、以及字根數為「四碼」的選字。
