@@ -27,7 +27,7 @@
 # 介面範例
 ![image](Images/Demo.gif)  
 ![image](Images/Settings.png)  
-### 推薦使用字體：[霞鶩文楷](https://github.com/lxgw/LxgwWenKai)。
+### 推薦使用字體：[霞鶩文楷](https://github.com/lxgw/LxgwWenKai)、[全字庫楷體](https://data.gov.tw/dataset/5961)
 
 # 程式執行前置作業
 - AutoHotkey 本身有鍵盤攔截功能，所以有時會被防毒軟體誤判，因此提供 32 位元與 64 位元的執行檔，請在解壓縮後，先選擇一個不會被系統誤判的執行檔。
