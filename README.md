@@ -20,9 +20,11 @@
 ### 更新 2025-03-02
 - `Style.ini` 中新增剪貼簿模式文字編輯框的字體相關設定
 
-# 下載方式
+# 下載與使用
 - 直接到 [Release](https://github.com/yurenli0217/Boshiahk2/releases) 頁面下載 `Boshiahk2.zip` 即可。
 - 建立一個資料夾，例如 `Boshiahk2`。將 `Boshiahk2.zip` 在此資料夾內解壓縮，執行 `Boshiahk2.exe` 即可開始使用。
+- 資料夾與檔案結構如下圖：  
+![image](Images/FileList.png)
 
 # 介面範例
 ![image](Images/Demo.gif)  
