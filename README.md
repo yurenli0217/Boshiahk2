@@ -1,4 +1,4 @@
-# Boshiahk2 - 嘸蝦殼2  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyurenli0217%2FBoshiahk2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# Boshiahk2 - 嘸蝦殼2
 免安裝的嘸蝦米輸入工具，以 AutoHotkey V2 開發。  
 本程式會攔截鍵盤事件，所以會被某些掃毒軟體誤判，附上掃毒結果給大家參考：  
 [線上掃毒結果網頁](https://www.virustotal.com/gui/file/a7865e3fdc1e8fcac64e081b9852cec6c82db93d0b9bedc78a4b666c7d79ec3b?nocache=1)  
@@ -122,7 +122,10 @@
 - 若想要符合的是視窗標題，每一行直接輸入視窗標題包含的字串，如`批踢踢實業坊`，視窗標題只要包含此字串，就會自動以剪貼簿送字。  
 - 視窗標題也可以支援正規表示法比對字串，這是比較進階的用法，有興趣的可以試試。視窗標題比對時的英文文字不分大小寫。
 - 使用模式4跟模式5時，在輸入文字過程會自動顯示一條文字框，輸入完按下 Enter 鍵將會以剪貼簿模式貼上輸入的文字內容，請參閱下圖。此兩種模式在特定的商業遠端遙控軟體會使用到。
-![image](Images/ClipMode45.jpg)  
+![image](Images/ClipMode45.jpg)
 
+## 造訪數
+(自2025/03/29重置)  
+![Hits](https://visit-counter.vercel.app/counter.png?page=boshiahk2)
 # 歷史更新
 [連結](https://github.com/yurenli0217/Boshiahk2/blob/main/History.md)
