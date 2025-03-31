@@ -12,7 +12,7 @@
 
 ### 更新 2025-03-31
 - 新增跟隨輸入提示游標(Caret)的功能，`main.ini` 中新增設定值 `Floating`，設定介面中亦可設定。
-- 跟隨游標的範例如下圖：  
+- 跟隨游標的範例如下圖，目前測試 Word、Excel、Line、Chrome、一般文字編輯器 能正常運作。  
 ![image](Images/Floating.gif)
 
 ### 更新 2025-03-30
