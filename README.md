@@ -10,6 +10,11 @@
 為了方便在任何電腦上都能使用，我興起了一個念頭，使用 AHK 來開發一個免安裝的嘸蝦米輸入工具，讓我能夠在任何電腦上使用嘸蝦米輸入法打中文，並且也讓嘸蝦米的使用者在遇到輸入法的問題時，能夠有另一個選擇。  
 只要 AHK 還能用，這個工具就會一直存在，持續維護。
 
+### 更新 2025-03-31
+- 新增跟隨輸入提示游標(Caret)的功能，`main.ini` 中新增設定值 `Floating`，設定介面中亦可設定。
+- 跟隨游標的範例如下圖：  
+![image](Images/Floating.gif)
+
 ### 更新 2025-03-30
 - 修正內部錯誤
 - 加入自簽憑證，目前線上掃毒軟體沒有誤判病毒，這樣誤判機率應該就會變小了
@@ -36,6 +41,7 @@
 
 # 介面範例
 ![image](Images/Demo.gif)  
+![image](Images/Floating.gif)  
 ![image](Images/Settings.png)  
 ### 推薦使用字體：[霞鶩文楷](https://github.com/lxgw/LxgwWenKai)、[全字庫楷體](https://data.gov.tw/dataset/5961)
 
