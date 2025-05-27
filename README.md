@@ -29,6 +29,9 @@
 - 新增跟隨輸入提示游標(Caret)的功能，`main.ini` 中新增設定值 `Floating`，設定介面中亦可設定。
 - 跟隨游標的範例如[介面範例](#介面範例)，目前測試 Word、Excel、Line、Chrome、一般文字編輯器 能正常運作。
 
+# 關於 Windows 11 ARM CPU 版本
+- 近期有蝦友回報 Windows 11 Arm 的版本，使用 Boshiahk2n.exe 可以正常執行，如果有遇到此系統的，可以試試 Boshiahk2n.exe 來試試看。
+
 # 下載與使用
 - 直接到 [Release](https://github.com/yurenli0217/Boshiahk2/releases) 頁面下載 `Boshiahk2.zip` 即可。
 - 建立一個資料夾，例如 `Boshiahk2`。將 `Boshiahk2.zip` 在此資料夾內解壓縮，執行 `Boshiahk2.exe` 即可開始使用。
