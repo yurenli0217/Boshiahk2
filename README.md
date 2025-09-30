@@ -140,8 +140,5 @@
 - 使用模式4跟模式5時，在輸入文字過程會自動顯示一條文字框，輸入完按下 Enter 鍵將會以剪貼簿模式貼上輸入的文字內容，請參閱下圖。此兩種模式在特定的商業遠端遙控軟體會使用到。
 ![image](Images/ClipMode45.jpg)
 
-## 造訪數
-(自2025/03/29重置)  
-![Hits](https://visit-counter.vercel.app/counter.png?page=boshiahk2)
 # 歷史更新
 [連結](https://github.com/yurenli0217/Boshiahk2/blob/main/History.md)
